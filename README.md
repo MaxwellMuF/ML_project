@@ -9,7 +9,7 @@ From a URL: Use the readr package's read_csv() function for CSV files.
     library(readr)
 
 # Load dataset from URL
-    url <- "https://example.com/dataset.csv"
+    url <- "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic"
     dataset <- read_csv(url)
 
 From Local Files: Use the read.csv() or read_csv() function to load files stored locally.
