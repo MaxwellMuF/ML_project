@@ -20,10 +20,6 @@ Basic Summary Methods in R
 
 After loading the dataset, summarize it to understand its structure and contents:
 
-Structure: Check the data types and layout.
-
-    str(dataset)
-
 Summary Statistics: Get a quick statistical summary of numeric variables.
 
     summary(dataset)
